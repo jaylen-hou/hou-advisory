@@ -1,7 +1,0 @@
-{
-  "name": "Hou Advisory - Elite AI Automation",
-  "description": "A high-end AI automation and web design agency landing page featuring interactive AI consultation powered by Gemini.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
